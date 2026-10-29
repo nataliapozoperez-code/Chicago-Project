@@ -75,3 +75,4 @@ Proyecto realizado con fines educativos. Las imágenes, los textos y otros recur
 Expresiones de gratitud
 
  Al profesor por las indicaciones y los conocimientos impartidos en clase.A los recursos educativos utilizados para aprender HTML y CSS. A las fuentes de información sobre la película y el musical Chicago.
+# Chicago-Project
